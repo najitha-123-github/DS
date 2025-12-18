@@ -37,3 +37,21 @@ public class FindOccurrence {
         sc.close();
     }
 }
+
+output
+1------    Enter array size: 3
+Enter array elements:
+1
+2
+3
+Enter element to find: 4
+Element not found in the array.
+
+2--------   Enter array size: 3
+Enter array elements:
+1 
+2
+3
+Enter element to find: 2
+Element found at position: 1
+
