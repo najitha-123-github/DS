@@ -44,3 +44,17 @@ public class MergeArrays {
         sc.close();
     }
 }
+
+
+output
+    Enter size of first array: 3
+Enter elements of first array:
+3
+4
+5
+Enter size of second array: 2
+Enter elements of second array:
+1
+2
+Merged Array:
+3 4 5 1 2
