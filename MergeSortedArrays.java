@@ -55,3 +55,18 @@ public class MergeSortedArrays {
         sc.close();
     }
 }
+
+
+
+output
+    Enter size of first array: 3
+Enter elements of first sorted array:
+3
+4
+5
+Enter size of second array: 2
+Enter elements of second sorted array:
+1
+2
+Merged Sorted Array:
+1 2 3 4 5
