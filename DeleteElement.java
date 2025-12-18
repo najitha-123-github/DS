@@ -38,3 +38,17 @@ public class DeleteElement {
         sc.close();
     }
 }
+
+
+
+output
+Enter array size: 5
+Enter array elements:
+2
+3
+4
+5
+6
+Enter position to delete: 3
+Array after deletion:
+2 3 5 6    
