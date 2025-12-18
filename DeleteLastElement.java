@@ -33,3 +33,15 @@ public class DeleteLastElement {
         sc.close();
     }
 }
+
+
+output
+    Enter array size: 5
+Enter array elements:
+3
+4
+5
+6
+7
+Array after deleting last element:
+3 4 5 6
